@@ -1,6 +1,6 @@
 # Basics of Python
 
-> How to read and edit Python, in within an hour
+> How to read and edit Python, within an hour
 
 - [![Part 01](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/MontpellierRessourcesImagerie/basics-of-python/blob/master/part-01.ipynb)
